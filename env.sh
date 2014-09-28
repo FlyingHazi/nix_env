@@ -1,2 +1,3 @@
 #!/bin/bash
-bash bash/env.sh
+cd bash
+bash env.sh
